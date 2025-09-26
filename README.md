@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-college courses
+konsep array tradisional & arraylist
